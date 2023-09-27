@@ -1,101 +1,11 @@
-<h1 id="publications"></h1>
+[1]	X. Wang, **Y. Long**, G. Xu* and Y. Liu. Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Hawaii, USA, 2023.
 
-<h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.uni-trier.de/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+[2]	**Y. Long**, G. Xu, J. Zhao, B. Xie and M. Fang, "Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response," IEEE Transactions on Engineering Management, doi: 10.1109/TEM.2023.3299693.
 
+[3]	**Y. Long**, H. Zhang, X. Wang and G. Xu*. (2023). UAV-Assisted Emergency Response: An Interdisciplinary Perspective. IEEE Transdisciplinary Engineering, Hua Hin, Thailand, 2023.
 
-<div class="publications">
-<ol class="bibliography">
+[4]	G. Xu, **Y. Long**, X. Wang and B. Xie* (2023). Truck-Drone Collaboration Strategies and Scheduling Optimization for Urban Emergency Responses, Journal of Safety and Environment (05),1587-1595. doi:10.13637/j.issn.1009-6094.2022.0084.
 
-{% for link in site.data.publications.main %}
+[5]	S. Wang, Y. **Long, Y**. Zhou, and G. Xu*. (2022, December). Multi-UAV Route Planning for Data Collection from Heterogeneous IoT Devices. In 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp. 1556-1560). IEEE.
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
-{% endfor %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CVPR</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html">Meta-Transfer Learning for Few-Shot Learning</a></div>
-      <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong>, Tat-Seng Chua, Bernt Schiele (*Equal contribution)</div>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
-      </div>
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://lyy.mpi-inf.mpg.de/mtl/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/SunLCS19.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-<br>
-<strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">600+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Featured in NUS News</i></a></strong>
-<br>
-<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2023&vq=en&cstart=100"><i>Top 120 Most Cited CVPR Papers over the Last Five Years</i></a></strong>
-  <script>
-  githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
-  var startext = document.getElementById("githubstars_mtl");
-        startext.innerHTML=stars;
-  });
-  </script>
-  <script>
-      $(document).ready(function () {
-          
-          var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
-          
-          $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-              var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
-              document.getElementById('total_citation_mtl').innerHTML = totalCitation;
-              var citationEles = document.getElementsByClassName('show_paper_citations')
-              Array.prototype.forEach.call(citationEles, element => {
-                  var paperId = element.getAttribute('data')
-                  var numCitations = data['publications'][paperId]['num_citations']
-                  element.innerHTML = '| Citations: ' + numCitations;
-              });
-          });
-      })
-  </script>
-    </div>
-  </div>
-</div>
-</li>
-
-</ol>
-</div>
-
-
+[6] **Y. Long**, Y. Sun, G. Xu* and P. Shu. Collaborative vehicle dispatching for resilient and fair emergency response. In 2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp. 649-653). IEEE.

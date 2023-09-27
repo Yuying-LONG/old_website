@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
+<!-- <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
 <li><strong>[Aug. 2023]</strong> I will give an in-person talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>
 <li><strong>[May 2023]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.00988.pdf">continual learning</a> is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
 <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://calendars.illinois.edu/detail/2568?eventId=33456212">UIUC External Speaker Series</a>.</li>
@@ -28,7 +28,7 @@
   <li><strong>[Feb. 2020]</strong> Our paper about <a href="https://arxiv.org/pdf/2002.10211.pdf">class-incremental learning</a> is accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
   <li><strong>[Feb. 2020]</strong> We will host the <a href="https://www.acmmmasia.org/2020/committee.html">ACM Multimedia Asia 2020</a> conference in Singapore!</li>
   <li><strong>[Sep. 2019]</strong> Our paper about <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf">few-shot learning</a> is accepted to <a href="https://nips.cc/Conferences/2019">NeurIPS 2019</a>.</li>
-  <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li>
+  <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li> -->
 </div>
 
 </ul>

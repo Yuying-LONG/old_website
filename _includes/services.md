@@ -12,9 +12,9 @@
       
       [2] Session 2: Operations Research 
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers for</h4>
 <li>
-  Reviewer of IEEE SMC2023
+  IEEE SMC2023
 </li>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewers for</h4>

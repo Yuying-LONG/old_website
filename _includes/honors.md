@@ -15,3 +15,7 @@
 <li>
   Outstanding Student, Harbin Institute of Technology, Shenzhen, China, 2021
 </li> 
+
+<li>
+  Chinese National Encouragement Scholarship, Southwest Jiaotong University, Chengdu, China, 2019
+</li> 

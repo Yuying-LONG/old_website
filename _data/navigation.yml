@@ -8,9 +8,9 @@ main:
    url: ./#services
    right: true
 
-  # - title: "Talks"
-  #  url: ./#invited-talks
-   # right: true
+  - title: "Talks"
+   url: ./#invited-talks
+   right: true
 
   - title: "Teaching"
    url: ./#teaching
@@ -20,8 +20,8 @@ main:
     url: ./#publications
     right: true
 
-  #- title: "News"
-  #  url: ./#news
+  - title: "News"
+   url: ./#news
 
   - title: "Bio"
     url: ./#about-me

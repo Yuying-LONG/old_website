@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><font color="red">(New)</font> <font color="#7D3C98">[2023.11.12]:</font> My paper entitled "Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness" won the <b>Best Paper Second Prize<b> at the <i>International Symposium on Emergency Management (ISEM 2023)</i>, Wuhan, China.</li>
+<li><font color="red">(New)</font> <font color="#7D3C98">[2023.11.12]:</font> My paper entitled "Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness" won the <b> Best Paper Second Prize </b> at the <i>International Symposium on Emergency Management (ISEM 2023)</i>, Wuhan, China.</li>
 
 <!-- <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
 <li><strong>[Aug. 2023]</strong> I will give an in-person talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>

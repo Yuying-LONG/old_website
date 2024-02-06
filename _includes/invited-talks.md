@@ -3,5 +3,6 @@
 
   <li>
     <b>Dynamic Truck-UAV Collaboration Strategy for Resilient Urban Emergency Response</b>
-    <li>2023 Tongji-Polyu Postgraduate Research Workshop, HKSAR, China.</li>
+    <ol>
+      <li>2023 Tongji-Polyu Postgraduate Research Workshop, HKSAR, China.</li>
   </li>

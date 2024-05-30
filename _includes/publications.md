@@ -7,7 +7,7 @@
 
 [6] X. Wang, <b>Y. Long</b>, G. Xu* & Y. Liu. (2023, October). [Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service.](https://ieeexplore.ieee.org/abstract/document/10394484/) In <i>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>, IEEE. DOI:10.1109/SMC53992.2023.10394484.
 
-[5] <b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). [Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response.](https://ieeexplore.ieee.org/abstract/document/10394484/](https://ieeexplore.ieee.org/abstract/document/10229971)) <i>IEEE Transactions on Engineering Management</i>. DOI:10.1109/TEM.2023.3299693.
+[5] <b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). [Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response.](https://ieeexplore.ieee.org/abstract/document/10229971)) <i>IEEE Transactions on Engineering Management</i>. DOI:10.1109/TEM.2023.3299693.
  
 [4] <b>Y. Long</b>, H. Zhang, X. Wang & G. Xu*. (2023, July). [UAV-Assisted Emergency Response: An Interdisciplinary Perspective.](https://books.google.com.hk/books?id=5eDjEAAAQBAJ&pg=PA771&lpg=PA771&dq=%22UAV-Assisted+Emergency+Response:+An+Interdisciplinary+Perspective%22&source=bl&ots=U2RXh0mDLc&sig=ACfU3U1fAbjURwiza56DC4hoYtzbFlMYaQ&hl=zh-CN&sa=X&ved=2ahUKEwiL-abTs_qFAxUg3zQHHf81ATYQ6AF6BAgaEAM#v=onepage&q=%22UAV-Assisted%20Emergency%20Response%3A%20An%20Interdisciplinary%20Perspective%22&f=false) In <i>2023 International Society of Transdisciplinary Engineering (TE2023)</i>. DOI:10.3233/ATDE230674
 

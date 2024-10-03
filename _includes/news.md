@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li><font color="red">(New)</font> <font color="#7D3C98">2024.9.30:</font> My paper paper entitled "Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness" was accepted by Advanced Engineering Informatics.!</li>
+  <li><font color="red">(New)</font> <font color="#7D3C98">2024.9.30:</font> My paper paper entitled "Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness" was accepted by Advanced Engineering Informatics!</li>
 </ul>
 
 <ul>

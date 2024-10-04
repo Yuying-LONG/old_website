@@ -5,7 +5,7 @@
 
 [8]  <b>Y. Long</b>, P. Sun, & G. Xu*, (2024, October). Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness. <i> Advanced Engineering Informatics</i>.
 
-[7] P. Wan, S. Wang, G. Xu*, <b>Y. Long</b> & R. Hu. (2024, April). [Hybrid Heuristic-Based Multi-UAV Route Planning for Time-Dependent Data Collection.](https://ieeexplore.ieee.org/abstract/document/10506205) <i> IEEE Internet of Things</i>. DOI:10.1109/JIOT.2024.3390732.
+[7] P. Wan, S. Wang, G. Xu*, <b>Y. Long</b> & R. Hu. (2024, April). [Hybrid Heuristic-Based Multi-UAV Route Planning for Time-Dependent Data Collection.](https://ieeexplore.ieee.org/abstract/document/10506205) <i> IEEE Internet of Things Journal</i>. DOI:10.1109/JIOT.2024.3390732.
 
 [6] X. Wang, <b>Y. Long</b>, G. Xu* & Y. Liu. (2023, October). [Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service.](https://ieeexplore.ieee.org/abstract/document/10394484/) In <i>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>, IEEE. DOI:10.1109/SMC53992.2023.10394484.
 

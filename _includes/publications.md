@@ -5,7 +5,8 @@
 
 [9] <b>Y. Long</b>, X. Han, & G. Xu*. (2024, October) Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness (in Chinese). <i>Journal of Safety Science and Technology </i>.
 
-[8]  <b>Y. Long</b>, P. Sun, & G. Xu*, (2024, October). Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness. <i> Advanced Engineering Informatics</i>.
+[8]  <b>Y. Long</b>, P. Sun, & G. Xu*. (2024, October). [Dynamic heterogeneous resource allocation in post-disaster relief operation considering fairness](https://www.sciencedirect.com/science/article/pii/S1474034624005068). <i>Advanced Engineering Informatics</i>, 62, 102858. DOI: 10.1016/j.aei.2024.102858.
+
 
 [7] P. Wan, S. Wang, G. Xu*, <b>Y. Long</b> & R. Hu. (2024, April). [Hybrid Heuristic-Based Multi-UAV Route Planning for Time-Dependent Data Collection.](https://ieeexplore.ieee.org/abstract/document/10506205) <i> IEEE Internet of Things Journal</i>. DOI:10.1109/JIOT.2024.3390732.
 

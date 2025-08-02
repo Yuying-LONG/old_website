@@ -3,7 +3,18 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li><font color="red">(New)</font> <font color="#7D3C98">2024.9.30:</font> My paper entitled "Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness" was accepted by Advanced Engineering Informatics!</li>
+  <li><font color="red">(New)</font> <font color="#7D3C98">2025.7.31:</font> I received outgoing scholarships (RSAP and ICRF) from HK PolyU and will soon depart for a six-month research visit at Techical University of Munich.
+</li>
+</ul>
+
+
+<ul>
+  <li><font color="red">(New)</font> <font color="#7D3C98">2025.7.23:</font> I present our recent work entitled "Dynamic Vehicle Location and Relocation Under Supply and Demand Uncertainties in Disaster Response" in the INFORMS International Meeting, Singapore.
+</li>
+</ul>
+
+<ul>
+  <li>2024.9.30:</font> My paper entitled "Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness" was accepted by Advanced Engineering Informatics!</li>
 </ul>
 
 <ul>

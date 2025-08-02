@@ -14,7 +14,7 @@
 </ul>
 
 <ul>
-  <li>2024.9.30:</font> My paper entitled "Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness" was accepted by Advanced Engineering Informatics!</li>
+  <li><font color="red"></font> <font color="#7D3C98">2024.9.30:</font> My paper entitled "Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness" was accepted by Advanced Engineering Informatics!</li>
 </ul>
 
 <ul>

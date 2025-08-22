@@ -6,11 +6,11 @@
   </li>
   
   <li>
-    TA, AAE3006: Safety, Reliability and Compliance, The Hong Kong Polytechnic University, 2023Spring, 24Spring
+    TA, AAE3006: Safety, Reliability and Compliance, The Hong Kong Polytechnic University, 2023Spring, 24Spring, 25Spring
   </li>
   
   <li>
-    TA, AAE 5103: Artificial Intelligence in Aviation Industry, The Hong Kong Polytechnic University, 2023Fall
+    TA, AAE 5103: Artificial Intelligence in Aviation Industry, The Hong Kong Polytechnic University, 2022Fall
   </li>
   
   <li>

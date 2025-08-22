@@ -1,8 +1,13 @@
 <h1 id="invited-talks"></h1>
 <h2 style="margin: 60px 0px 10px;">Presentations</h2>
-  
+
 <li>
-    Nov. 2023, "Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness",
+    Jul. 2025, "Dynamic Vehicle Location and Relocation Under Supply and Demand Uncertainties in Disaster Response",
+, 2025 INFORMS International Meeting, Singapore.
+</li>
+
+<li>
+    Nov. 2023, "Dynamic and Collaborative Dispatching of Heterogeneous Relief Resources considering Fairness",
 , 2023 International Symposium on Emergency Management (ISEM 2023), Wuhan, China.
 </li>
 

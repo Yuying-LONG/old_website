@@ -15,8 +15,17 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <li>
+  International Journal of Disaster Risk Reduction
+</li>
+<li>
+  Reliability Engineering & System Safety
+</li>
+<li>
   Frontiers of Engineering Management
 </li>
 <li>
   The Journal of Supercomputing
+</li>
+<li>
+  Operations Research Perspectives
 </li>

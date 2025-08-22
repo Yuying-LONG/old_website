@@ -16,7 +16,7 @@
 </li>
 
 <li>
-  July. 2023, "UAV-Assisted Emergency Response: An Interdisciplinary Perspective", 2023 International Society of Transdisciplinary Engineering (TE2023), Hua Hin, Thailand.
+  Jul. 2023, "UAV-Assisted Emergency Response: An Interdisciplinary Perspective", 2023 International Society of Transdisciplinary Engineering (TE2023), Hua Hin, Thailand.
 </li>
 
 <li>

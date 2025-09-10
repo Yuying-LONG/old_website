@@ -29,3 +29,8 @@
 <li>
   Operations Research Perspectives
 </li>
+
+<h4 style="margin:0 10px 0;">Volunteer</h4>
+<li>
+  The 28th ATRS World Conference, July 1-4, 2025
+</li>

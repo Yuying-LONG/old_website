@@ -3,17 +3,19 @@
 
 (**"*" for the corresponding author**)
 
-[10] J. Zhao, <b>Y. Long</b>, B. Xie*, G. Xu, & Y. Liu. (2024, December) [A matheuristic solution for efficient scheduling in dynamic truck-drone collaboration](https://www.sciencedirect.com/science/article/pii/S0957417424030859?casa_token=8KnowiHW_BYAAAAA:bMCEdjf16PBnjuXjjsWniBu0FRwQpnh-EUThUds5Hf-m9zG_umvkfIwYQG-1MRVmfSaCoqUm-Q). <i> Expert Systems with Applications</i>, 126218.
+[11] Y. Liu, B. Xie, <b>Y. Long</b>, J. Chen, & G. Xu*. (2025, September) [Learning-based Heterogeneous Autonomous Vehicles Scheduling for On-demand Last-mile Transportation](https://ieeexplore.ieee.org/document/11172291). <i> IEEE Transactions on Automation Science and Engineering</i>, DOI: 10.1109/TASE.2025.3611676.
 
-[9] <b>Y. Long</b>, X. Han, & G. Xu*. (2024, October) Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness (in Chinese). <i>Journal of Safety Science and Technology </i>. DOI: 10.11731/j.issn.1673-193x.2024.11.00
+[10] J. Zhao, <b>Y. Long</b>, B. Xie*, G. Xu, & Y. Liu. (2024, December) [A matheuristic solution for efficient scheduling in dynamic truck-drone collaboration](https://www.sciencedirect.com/science/article/pii/S0957417424030859?casa_token=8KnowiHW_BYAAAAA:bMCEdjf16PBnjuXjjsWniBu0FRwQpnh-EUThUds5Hf-m9zG_umvkfIwYQG-1MRVmfSaCoqUm-Q). <i> Expert Systems with Applications</i>, DOI: 10.1016/j.eswa.2024.126218.
+
+[9] <b>Y. Long</b>, X. Han, & G. Xu*. (2024, October) Dynamic and Collaborative Dispatching of Heterogeneous Relief Resources considering Fairness (in Chinese). <i>Journal of Safety Science and Technology </i>. DOI: 10.11731/j.issn.1673-193x.2024.11.00
 
 [8]  <b>Y. Long</b>, P. Sun, & G. Xu*. (2024, October). [Dynamic heterogeneous resource allocation in post-disaster relief operation considering fairness](https://www.sciencedirect.com/science/article/pii/S1474034624005068). <i>Advanced Engineering Informatics</i>, 62, 102858. DOI: 10.1016/j.aei.2024.102858.
 
-[7] P. Wan, S. Wang, G. Xu*, <b>Y. Long</b> & R. Hu. (2024, April). [Hybrid Heuristic-Based Multi-UAV Route Planning for Time-Dependent Data Collection.](https://ieeexplore.ieee.org/abstract/document/10506205) <i> IEEE Internet of Things Journal</i>. DOI:10.1109/JIOT.2024.3390732.
+[7] P. Wan, S. Wang, G. Xu*, <b>Y. Long</b> & R. Hu. (2024, April). [Hybrid Heuristic-Based Multi-UAV Route Planning for Time-Dependent Data Collection.](https://ieeexplore.ieee.org/abstract/document/10506205) <i> IEEE Internet of Things Journal</i>. DOI: 10.1109/JIOT.2024.3390732.
 
-[6] X. Wang, <b>Y. Long</b>, G. Xu* & Y. Liu. (2023, October). [Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service.](https://ieeexplore.ieee.org/abstract/document/10394484/) In <i>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>, IEEE. DOI:10.1109/SMC53992.2023.10394484.
+[6] X. Wang, <b>Y. Long</b>, G. Xu* & Y. Liu. (2023, October). [Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service.](https://ieeexplore.ieee.org/abstract/document/10394484/) In <i>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>, IEEE. DOI: 10.1109/SMC53992.2023.10394484.
 
-[5] <b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). [Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response.](https://ieeexplore.ieee.org/abstract/document/10229971)) <i>IEEE Transactions on Engineering Management</i>. DOI:10.1109/TEM.2023.3299693.
+[5] <b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). [Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response.](https://ieeexplore.ieee.org/abstract/document/10229971)) <i>IEEE Transactions on Engineering Management</i>. DOI: 10.1109/TEM.2023.3299693.
  
 [4] <b>Y. Long</b>, H. Zhang, X. Wang & G. Xu*. (2023, July). [UAV-Assisted Emergency Response: An Interdisciplinary Perspective.](https://books.google.com.hk/books?id=5eDjEAAAQBAJ&pg=PA771&lpg=PA771&dq=%22UAV-Assisted+Emergency+Response:+An+Interdisciplinary+Perspective%22&source=bl&ots=U2RXh0mDLc&sig=ACfU3U1fAbjURwiza56DC4hoYtzbFlMYaQ&hl=zh-CN&sa=X&ved=2ahUKEwiL-abTs_qFAxUg3zQHHf81ATYQ6AF6BAgaEAM#v=onepage&q=%22UAV-Assisted%20Emergency%20Response%3A%20An%20Interdisciplinary%20Perspective%22&f=false) In <i>2023 International Society of Transdisciplinary Engineering (TE2023)</i>. DOI:10.3233/ATDE230674
 

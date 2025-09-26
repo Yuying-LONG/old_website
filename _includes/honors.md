@@ -2,6 +2,15 @@
 <h2 style="margin: 60px 0px 10px;">Honors</h2>
 
 <li>
+PolyU PhD Scholars International Collaborative Research Fellowship 2024/25 (2nd Round), Hong Kong, China, 2025
+</li>
+
+<li>
+Research Student Attachment Programme - Outgoing 2024/25 (2nd Round), Hong Kong, China, 2025
+</li>
+
+
+<li>
 Best Paper Second Prize, International Symposium on Emergency Management (ISEM 2023), Wuhan, China, 2023
 </li>
 

@@ -24,6 +24,9 @@
   Frontiers of Engineering Management
 </li>
 <li>
+  Expert Systems With Applications
+</li>
+<li>
   The Journal of Supercomputing
 </li>
 <li>

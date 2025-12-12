@@ -2,17 +2,4 @@
 ---
 
 @import "minimal-light";
----
----
 
-/* 引入主题默认样式 */
-@import "{{ site.theme }}";
-
-/* 覆盖头像样式，去除圆角 */
-.image.avatar {
-  border-radius: 0 !important;
-}
-
-.image.avatar img {
-  border-radius: 0 !important;
-}

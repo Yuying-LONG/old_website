@@ -1,27 +1,129 @@
-<h1 id="publications"></h1>
-<h2 style="margin: 60px 0px 10px;">Publications</h2>
+---
+layout: default
+title: Publications
+---
 
-(**"*" for the corresponding author**)
+<!-- 1. 这里是样式代码，直接保留在 md 文件里即可 -->
+<style>
+.pub-item {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 40px; /* 每篇论文之间的间距 */
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
 
-[11] Y. Liu, B. Xie, <b>Y. Long</b>, J. Chen, & G. Xu*. (2025, September) [Learning-based Heterogeneous Autonomous Vehicles Scheduling for On-demand Last-mile Transportation](https://ieeexplore.ieee.org/document/11172291). <i> IEEE Transactions on Automation Science and Engineering</i>, DOI: 10.1109/TASE.2025.3611676.
+.pub-img {
+    flex: 0 0 250px; /* 图片宽度固定为 250px */
+    width: 250px;
+}
 
-[10] J. Zhao, <b>Y. Long</b>, B. Xie*, G. Xu, & Y. Liu. (2024, December) [A matheuristic solution for efficient scheduling in dynamic truck-drone collaboration](https://www.sciencedirect.com/science/article/pii/S0957417424030859?casa_token=8KnowiHW_BYAAAAA:bMCEdjf16PBnjuXjjsWniBu0FRwQpnh-EUThUds5Hf-m9zG_umvkfIwYQG-1MRVmfSaCoqUm-Q). <i> Expert Systems with Applications</i>, DOI: 10.1016/j.eswa.2024.126218.
+.pub-img img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    object-fit: cover;
+}
 
-[9] <b>Y. Long</b>, X. Han, & G. Xu*. (2024, October) Dynamic and Collaborative Dispatching of Heterogeneous Relief Resources considering Fairness (in Chinese). <i>Journal of Safety Science and Technology </i>. DOI: 10.11731/j.issn.1673-193x.2024.11.00
+.pub-content {
+    flex: 1; /* 文字部分占据剩余空间 */
+    min-width: 300px;
+}
 
-[8]  <b>Y. Long</b>, P. Sun, & G. Xu*. (2024, October). [Dynamic heterogeneous resource allocation in post-disaster relief operation considering fairness](https://www.sciencedirect.com/science/article/pii/S1474034624005068). <i>Advanced Engineering Informatics</i>, 62, 102858. DOI: 10.1016/j.aei.2024.102858.
+.pub-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
 
-[7] P. Wan, S. Wang, G. Xu*, <b>Y. Long</b> & R. Hu. (2024, April). [Hybrid Heuristic-Based Multi-UAV Route Planning for Time-Dependent Data Collection.](https://ieeexplore.ieee.org/abstract/document/10506205) <i> IEEE Internet of Things Journal</i>. DOI: 10.1109/JIOT.2024.3390732.
+.pub-authors {
+    color: #555;
+    margin-bottom: 5px;
+    font-style: italic;
+}
 
-[6] X. Wang, <b>Y. Long</b>, G. Xu* & Y. Liu. (2023, October). [Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service.](https://ieeexplore.ieee.org/abstract/document/10394484/) In <i>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>, IEEE. DOI: 10.1109/SMC53992.2023.10394484.
+.pub-venue {
+    color: #222;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
 
-[5] <b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). [Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response.](https://ieeexplore.ieee.org/abstract/document/10229971)) <i>IEEE Transactions on Engineering Management</i>. DOI: 10.1109/TEM.2023.3299693.
- 
-[4] <b>Y. Long</b>, H. Zhang, X. Wang & G. Xu*. (2023, July). [UAV-Assisted Emergency Response: An Interdisciplinary Perspective.](https://books.google.com.hk/books?id=5eDjEAAAQBAJ&pg=PA771&lpg=PA771&dq=%22UAV-Assisted+Emergency+Response:+An+Interdisciplinary+Perspective%22&source=bl&ots=U2RXh0mDLc&sig=ACfU3U1fAbjURwiza56DC4hoYtzbFlMYaQ&hl=zh-CN&sa=X&ved=2ahUKEwiL-abTs_qFAxUg3zQHHf81ATYQ6AF6BAgaEAM#v=onepage&q=%22UAV-Assisted%20Emergency%20Response%3A%20An%20Interdisciplinary%20Perspective%22&f=false) In <i>2023 International Society of Transdisciplinary Engineering (TE2023)</i>. DOI:10.3233/ATDE230674
+.pub-abstract {
+    font-size: 0.9em;
+    color: #666;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    line-height: 1.5;
+    margin-top: 10px;
+}
 
-[3] G. Xu, <b>Y. Long</b>, X. Wang & B. Xie*. (2023, May). [Truck-Drone Collaboration Strategies and Scheduling Optimization for Urban Emergency Responses.](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=AQHJ202305028&uniplatform=OVERSEA&v=1pKKxjUEkwC08v_kFh9m7yE0RN2bA2c7tsH0X63tWSL3JQXxEIxMFdArLtn4-bAQ) <i>Journal of Safety and Environment</i> (05),1587-1595. DOI:10.13637/j.issn.1009-6094.2022.0084. 
+/* 手机端适配：图片变大，上下排列 */
+@media (max-width: 768px) {
+    .pub-item { flex-direction: column; }
+    .pub-img { width: 100%; flex: auto; }
+}
+</style>
 
-[2] S. Wang, <b>Y. Long</b>, Y. Zhou, & G. Xu*. (2022, December). [Multi-UAV Route Planning for Data Collection from Heterogeneous IoT Devices.](https://ieeexplore.ieee.org/abstract/document/9989729) In <i>2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</i> (pp. 1556-1560). IEEE. DOI:10.1109/IEEM55944.2022.9989729.
+<h1 id="publications">Publications</h1>
+<h2 style="margin: 30px 0px 20px;">Selected Papers</h2>
+<p>(**"*" for the corresponding author**)</p>
 
-[1] <b>Y. Long</b>, Y. Sun, G. Xu*, & P. Shu (2021, December). [Collaborative Vehicle Dispatching for Resilient and Fair Emergency Response.](https://ieeexplore.ieee.org/document/9672982) In <i>2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</i> (pp. 649-653). IEEE. DOI:10.1109/IEEM50564.2021.9672982.
+<!-- ================= 论文 [11] 开始 ================= -->
+<div class="pub-item">
+  <!-- 左侧图片：请修改 src 为你的图片路径 -->
+  <div class="pub-img">
+    <img src="/assets/img/11.jpg" alt="Paper Image">
+  </div>
+  
+  <!-- 右侧内容 -->
+  <div class="pub-content">
+    <div class="pub-title">
+      <a href="https://ieeexplore.ieee.org/document/11172291">[11] Learning-based Heterogeneous Autonomous Vehicles Scheduling for On-demand Last-mile Transportation</a>
+    </div>
+    
+    <div class="pub-authors">
+      Y. Liu, B. Xie, <b>Y. Long</b>, J. Chen, & G. Xu*
+    </div>
+    
+    <div class="pub-venue">
+      IEEE Transactions on Automation Science and Engineering (2025)
+    </div>
+    
+    <!-- 摘要区域 -->
+    <div class="pub-abstract">
+      <b>Abstract:</b> Last-mile transportation, a critical component of public transit within integrated urban mobility systems, plays a pivotal role in promoting sustainability and requires immediate attention. However, due to the high real-time variability and uncertainties of last-mile travel demand, high passenger concurrency, and dispersed destinations, existing last-mile transportation systems often encounter significant challenges. These challenges include resource shortages and congestion during peak hours, as well as high operational costs and excessive passenger waiting times during off-peak periods. With the rapid development and widespread adoption of autonomous vehicles, which are characterized by centralized control and flexible scheduling, this study proposes leveraging heterogeneous autonomous vehicles to address these challenges. Specifically, a mixed-integer programming model is developed to maximize the service provider’s profit by considering fare profit, passenger waiting time penalties, and operating costs. To enable real-time decision-making, then an attention-based deep reinforcement learning algorithm is introduced. This algorithm incorporates two decoder mechanisms for vehicle selection and passenger allocation in the scheduling of heterogeneous autonomous vehicles. This involves dynamically selecting vehicles from a heterogeneous fleet based on passenger demand using an attention mechanism, optimizing efficiency in serving last-mile travelers. Extensive numerical experiments and a real-world case study across various datasets demonstrate that the proposed service model and algorithm effectively solve the scheduling problem while meeting the demands of on-demand last-mile transportation. Furthermore, these innovations contribute to reducing fleet carbon emissions and advancing sustainable urban transportation. Note to Practitioners—Last-mile transportation systems face critical challenges: overcrowded vehicles during peak hours, high costs due to underused resources in off-peak periods, and passenger dissatisfaction from long wait times. These issues hinder sustainable urban mobility and strain transit operators’ budgets. This work addresses these problems by deploying heterogeneous autonomous vehicle fleets with varying sizes and capabilities for last-mile transportation. The proposed system dynamically assigns vehicles to passengers based on real-time demand, optimizing efficiency while reducing operational costs. For transit operators, this approach balances fare revenue with penalties for passenger delays, ensuring profitability even during fluctuating demand. Cities adopting shared autonomous vehicle services can benefit from reduced congestion and lower carbon emissions, aligning with sustainability goals. Our experiments validate that the method improves service reliability and fleet utilization across demand scenarios. Implementing this solution requires integrating demand prediction tools with a centralized autonomous vehicle dispatch platform, compatible with existing mobility apps. Future extensions could adapt the system to mixed fleets (combining autonomous vehicles with traditional vehicles) or expand to multi-city networks. By addressing both economic and environmental needs, this framework offers a scalable path toward smarter, greener urban transportation.
+    </div>
+  </div>
+</div>
+<!-- ================= 论文 [11] 结束 ================= -->
 
+
+<!-- ================= 论文 [10] 开始 ================= -->
+<div class="pub-item">
+  <div class="pub-img">
+    <!-- 记得上传图片并修改这里的路径 -->
+    <img src="/assets/img/10.jpg" alt="Paper Image">
+  </div>
+  
+  <div class="pub-content">
+    <div class="pub-title">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0957417424030859">[10] A matheuristic solution for efficient scheduling in dynamic truck-drone collaboration</a>
+    </div>
+    
+    <div class="pub-authors">
+      J. Zhao, <b>Y. Long</b>, B. Xie*, G. Xu, & Y. Liu
+    </div>
+    
+    <div class="pub-venue">
+      Expert Systems with Applications (2024)
+    </div>
+    
+    <div class="pub-abstract">
+      <b>Abstract:</b> Unmanned aerial vehicles (UAVs), or drones, have great potential for emergency response operations in areas with vulnerable road networks and infrastructure. However, the low battery capacity restricts their quick, cost-effective, and efficient aerial transportation capabilities. To overcome this drawback, hybrid systems that combine trucks and drones have emerged as a promising solution. Nevertheless, the fixed-binding mode between trucks and drones in most studies tends to impair efficiency by limiting drones’ operational flexibility. This paper investigates a dynamic truck–drone collaboration (DTDC) strategy for efficient and flexible emergency response. This strategy enables drones to dynamically change take-off and landing locations on different trucks, which is beneficial in emergency scenarios with common road network disruptions. Despite its advantages, the DTDC strategy introduces additional complexity to the scheduling problem, resulting in a time-consuming solution. To enhance solution efficiency and improve the application prospects of this strategy, we propose a matheuristic to decouple DTDC’s multiple synchronization constraints, separating the scheduling problem into three decision-making processes: demand allocation, truck routing, and drone scheduling. Additionally, two alternative matheuristic algorithms are designed to target accuracy and computing efficiency, respectively. The empirical results indicate that the proposed heuristics outperform the state-of-the-art solver and several metaheuristics. A sensitivity analysis confirms that improvements in drone endurance and the strategic reservation of drone parking slots on trucks can significantly improve the DTDC strategy’s performance.
+    </div>
+  </div>
+</div>
+<!-- ================= 论文 [10] 结束 ================= -->
